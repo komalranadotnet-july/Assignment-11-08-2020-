@@ -1,0 +1,10 @@
+E:\Dot Net\Assignment  11-08-2020\WindowsForms\WindowsForms\bin\Debug\WindowsForms.exe.config
+E:\Dot Net\Assignment  11-08-2020\WindowsForms\WindowsForms\bin\Debug\WindowsForms.exe
+E:\Dot Net\Assignment  11-08-2020\WindowsForms\WindowsForms\bin\Debug\WindowsForms.pdb
+E:\Dot Net\Assignment  11-08-2020\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csprojAssemblyReference.cache
+E:\Dot Net\Assignment  11-08-2020\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Form1.resources
+E:\Dot Net\Assignment  11-08-2020\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+E:\Dot Net\Assignment  11-08-2020\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.cache
+E:\Dot Net\Assignment  11-08-2020\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.CoreCompileInputs.cache
+E:\Dot Net\Assignment  11-08-2020\WindowsForms\WindowsForms\obj\Debug\WindowsForms.exe
+E:\Dot Net\Assignment  11-08-2020\WindowsForms\WindowsForms\obj\Debug\WindowsForms.pdb
